@@ -1,0 +1,59 @@
+* {margin: 0; font-family: Arial, Helvetica, sans-serif;}
+#nav {
+    position: fixed;
+    left: 0;
+    width: 25%;
+    height: 100%;
+    background-color: #424242;
+}
+#nav img {
+    width: 100%;
+}
+#nav td {
+    height: 40px; 
+    border-bottom: #303030 1px solid;
+    padding: 0 0 0 20px;
+    width: 20%;
+}
+#nav td a {
+    text-decoration: none;
+    color: rgb(185, 185, 185);
+}
+#main {
+    position: fixed;
+    right: 0;
+    height: 100%;
+    width: 75%;
+}
+.pgomb {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+.pg-piros {
+    background-image: url("../img/pijos.png");
+    background-size: 100px;
+    background-repeat: no-repeat;
+}
+.pg-narancs {
+    background-image: url("../img/naancs.png");
+    background-size: 100px;
+    background-repeat: no-repeat;
+}
+.pg-zold {
+    background-image: url("../img/züd.png");
+    background-size: 100px;
+    background-repeat: no-repeat;
+}
+.pg-kek {
+    background-image: url("../img/kekw.png");
+    background-size: 100px;
+    background-repeat: no-repeat;
+}
+.pg-lila {
+    background-image: url("../img/rozaszin.png");
+    background-size: 100px;
+    background-repeat: no-repeat;
+}
