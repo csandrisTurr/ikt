@@ -9,8 +9,8 @@ img{
     background-color: rgb(66, 66, 66);
     color:white;
 }
-table tr{
-    border-bottom: 2px rgb(100, 100, 100);
+table td{
+    border-bottom: 2px solid rgb(100, 100, 100);
 }
 #kepek{
     float: right;
