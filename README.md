@@ -1,5 +1,6 @@
 # Lottó projekt
 - By: Császár (Kernel) András, Tarr (waves) Gábor, Juhász (Goser) Gábor
+- Pages: [Link](https://csandristurr.github.io/ikt/)
 
 - Képek: Tarr
 - HTML: Juhász
