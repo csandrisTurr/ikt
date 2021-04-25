@@ -16,11 +16,13 @@
 ```
 ├───ikt
 │   │   index.html
+|   |   leggyakoribb.html
 │   │
 │   └───assets
 │       ├───css
 │       │       1.css
-│       │       alap.css
+│       │       2.css
+|       |       alap.css
 │       │
 │       └───img
 │               banner.png
@@ -46,3 +48,7 @@
 ### Lottószámok megoldása:
 - Táblázattal vannak megoldva:
   - Ha lottószámot adunk meg, az adott cellában a `pgomb` és `pg-<szín>` classokat használjuk. Ezek az `alap.css` fájlban vannak megadva, hogy globálisan tudjuk őket használni.
+  
+## 04.25
+- Leggyakoribb számok oldal megcsinálása
+- Multipage megoldás tesztelése (Új html fájl, új css)
