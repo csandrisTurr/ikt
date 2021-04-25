@@ -1,0 +1,18 @@
+h1 {
+    font-size: 50px;
+}
+#main div {
+    padding-left: 100px;
+    line-height: 100px;
+}
+.no {
+    font-weight: 300;
+    font-size: 52px;
+    width: 100px;
+    text-align: center;
+}
+.yes {
+    font-size: 45px;
+    width: 200px;
+    text-align: center;
+}
