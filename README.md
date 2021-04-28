@@ -17,11 +17,13 @@
 ├───ikt
 │   │   index.html
 |   |   leggyakoribb.html
+|   |   leghasonlobb.html
 │   │
 │   └───assets
 │       ├───css
 │       │       1.css
 │       │       2.css
+│       │       3.css
 |       |       alap.css
 │       │
 │       └───img
@@ -50,5 +52,7 @@
   - Ha lottószámot adunk meg, az adott cellában a `pgomb` és `pg-<szín>` classokat használjuk. Ezek az `alap.css` fájlban vannak megadva, hogy globálisan tudjuk őket használni.
   
 ## 04.25
-- Leggyakoribb számok oldal megcsinálása
+- Leggyakoribb számok oldal hozzádadása
 - Multipage megoldás tesztelése (Új html fájl, új css)
+## 04.27
+- Leghasonlóbb számsorok oldal hozzádadása
