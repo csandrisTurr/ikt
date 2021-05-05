@@ -2,10 +2,6 @@
 - By: Császár (Kernel) András, Tarr (waves) Gábor, Juhász (Goser) Gábor
 - Pages: [Link](https://csandristurr.github.io/ikt/)
 
-- Képek: Tarr
-- HTML: Juhász
-- CSS: Császár
-
 ## Főoldal
 - A főoldal egy bal oldalon elhelyezkedő navigációs sávból és a tartalomból áll.
 - A navigációs linkek használata során a weblaphoz tartozó al-oldalakra kerülünk.
@@ -18,12 +14,14 @@
 │   │   index.html
 |   |   leggyakoribb.html
 |   |   leghasonlobb.html
+|   |   leghosszabb.html
 │   │
 │   └───assets
 │       ├───css
 │       │       1.css
 │       │       2.css
 │       │       3.css
+|       |       4.css
 |       |       alap.css
 │       │
 │       └───img
@@ -56,3 +54,8 @@
 - Multipage megoldás tesztelése (Új html fájl, új css)
 ## 04.27
 - Leghasonlóbb számsorok oldal hozzádadása
+## 05.05
+- Leghosszabb számsorozat oldal hozzáadása
+- Korábbi oldalak javítása:
+  - Cím elírása
+- Linkek hozzáadása
