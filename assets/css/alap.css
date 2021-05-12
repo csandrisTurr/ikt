@@ -24,6 +24,7 @@
     right: 0;
     height: 100%;
     width: 75%;
+    overflow-y: auto;
 }
 .pgomb {
     width: 100px;
