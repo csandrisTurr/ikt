@@ -15,6 +15,10 @@
 |   |   leggyakoribb.html
 |   |   leghasonlobb.html
 |   |   leghosszabb.html
+|   |   grafikonok.html
+|   |   g1.png
+|   |   g2.png
+|   |   g3.png
 │   │
 │   └───assets
 │       ├───css
@@ -22,6 +26,7 @@
 │       │       2.css
 │       │       3.css
 |       |       4.css
+|       |       5.css
 |       |       alap.css
 │       │
 │       └───img
@@ -50,12 +55,18 @@
   - Ha lottószámot adunk meg, az adott cellában a `pgomb` és `pg-<szín>` classokat használjuk. Ezek az `alap.css` fájlban vannak megadva, hogy globálisan tudjuk őket használni.
   
 ## 04.25
-- Leggyakoribb számok oldal hozzádadása
+- Leggyakoribb számok oldal hozzáadása
 - Multipage megoldás tesztelése (Új html fájl, új css)
 ## 04.27
-- Leghasonlóbb számsorok oldal hozzádadása
+- Leghasonlóbb számsorok oldal hozzáadása
 ## 05.05
 - Leghosszabb számsorozat oldal hozzáadása
 - Korábbi oldalak javítása:
   - Cím elírása
 - Linkek hozzáadása
+## 06.01
+- Grafikonok oldal hozzáadása
+- Linkek hozzáadása
+- új css létrehozása (5.css),abban a #kepek formázása
+
+
