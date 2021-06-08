@@ -1,0 +1,17 @@
+h1 {
+    font-size: 40px;
+    line-height: 70px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+h2 {
+    font-size: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+h3 {
+    font-size: 25px;
+    line-height: 70px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
