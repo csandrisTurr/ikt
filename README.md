@@ -16,6 +16,7 @@
 |   |   leghasonlobb.html
 |   |   leghosszabb.html
 |   |   grafikonok.html
+|   |   erdekes.html
 |   |   g1.png
 |   |   g2.png
 |   |   g3.png
@@ -27,6 +28,7 @@
 │       │       3.css
 |       |       4.css
 |       |       5.css
+|       |       6.css
 |       |       alap.css
 │       │
 │       └───img
