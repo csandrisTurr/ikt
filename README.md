@@ -68,5 +68,11 @@
 - Grafikonok oldal hozzáadása
 - Linkek hozzáadása
 - új css létrehozása (5.css),abban a #kepek formázása
+## 06.08
+- Érdekes történetek oldal létrehozása
+- Linkek hozzáadása
+- új css létrehozása (6.css)
+- Történetek beillesztése
+
 
 
